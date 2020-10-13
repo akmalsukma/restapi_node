@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/akmalsukma/restapi_node/issues"
   },
-  "homepage": "https://github.com/akmalsukma/restapi_node#readme"
+  "homepage": "https://github.com/akmalsukma/restapi_node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^17.2.1",
+    "mysql": "^2.18.1"
+  }
 }
